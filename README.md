@@ -1,4 +1,4 @@
-# Lab 1
+# Lab 2
 
 Prerequisites
 ============
@@ -27,8 +27,8 @@ These parameters are used for the Reed Decibel Meter
     --This application must be running in order to obtain the sensor readings
     
     
-Primary Lab 1 Jupyter Notebook
+Primary Lab 2 Jupyter Notebook
 ==========
 
-This notebook should be edited and turned into MyCourses. The p18_emg file is uploaded on MyCourses, due to file size limits. Please place it in the data directory
+This notebook should be edited and turned into MyCourses.
 
