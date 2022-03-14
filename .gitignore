@@ -3,3 +3,13 @@
 lab data/lab 3/lab 3 EOGs/EOGaharon/blink1.xdf
 *.xdf
 *.csv
+.ipynb_checkpoints/ecg_delineate-checkpoint.ipynb
+.ipynb_checkpoints/eog-checkpoint.ipynb
+.ipynb_checkpoints/heartbeats-checkpoint.ipynb
+.ipynb_checkpoints/hrv-checkpoint.ipynb
+.ipynb_checkpoints/Lab 3-ECG-checkpoint.ipynb
+.ipynb_checkpoints/Lab 3-EOG-checkpoint.ipynb
+ecg_delineate.ipynb
+eog.ipynb
+heartbeats.ipynb
+hrv.ipynb
