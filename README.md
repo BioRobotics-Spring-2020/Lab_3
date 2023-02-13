@@ -27,7 +27,7 @@ These parameters are used for the Reed Decibel Meter
     --This application must be running in order to obtain the sensor readings
     
     
-Primary Lab 2 Jupyter Notebook
+Primary Lab 3 Jupyter Notebook
 ==========
 
 This notebook should be edited and turned into MyCourses.
