@@ -1,4 +1,4 @@
-cbitstruct
+cbitstruct==1.0.7
 https://s3.amazonaws.com/resources.neuropype.io/wheels/PyBluez-0.22-cp37-cp37m-win_amd64.whl ; platform_system == "Windows"
 pylsl==1.13.1
 pyqt5
